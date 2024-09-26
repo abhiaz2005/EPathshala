@@ -5,7 +5,7 @@ E-Pathshala is a robust and user-friendly online education platform built using 
 ## Live Demo
 
 - 🌐 [E-Pathshala Live Site] <a href="https://epathshala-frontend.onrender.com/">E-pathshalaa</a>
-- 
+
 ## Key Features
 
 ### User Authentication & Authorization
